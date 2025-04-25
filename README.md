@@ -15,8 +15,8 @@ I've worked on projects involving **search systems**, **recommendation engines**
 - **JavaScript & TypeScript** – For frontend and API integration tasks  
 
 ### ⚙️ Frameworks & Libraries
-- **Java Backend**: Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Jakarta EE, Micronaut, Quarkus  
-- **Testing**: JUnit, Mockito, TestNG, Selenium, RestAssured, Cucumber (BDD), AssertJ  
+- **Java Backend**: Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Jakarta EE
+- **Testing**: JUnit, Mockito, TestNG, Selenium, RestAssured, Cucumber (BDD)=
 - **Python**: NumPy, Pandas, Flask, FastAPI, TensorFlow  
 - **Frontend (Basic)**: React, Angular, Bootstrap, Tailwind CSS, TypeScript  
 - **Data Processing**: Apache Kafka, Apache Spark  
@@ -24,7 +24,7 @@ I've worked on projects involving **search systems**, **recommendation engines**
 - **DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitLab CI/CD  
 - **Build Tools**: Maven, Gradle  
 - **Version Control**: Git, GitHub, GitLab  
-- **IDE**: IntelliJ IDEA, VS Code  
+- **IDE**: IntelliJ IDEA, VS Code, Eclipse  
 
 ---
 
